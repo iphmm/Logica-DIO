@@ -25,4 +25,5 @@ else if(XP > 9001 && XP <= 10000){
 else{
     elo = "Radiante";
 }
-console.log("O Herói: " +nome+ ", está no elo: " + elo)
+console.log(`O ${nome}, está no elo ${elo}`);
+//Testadp no Playcode
